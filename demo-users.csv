@@ -1,0 +1,12 @@
+3;A;M;J;Test T1;Team 1;Могилев
+79;B;M;J;Test T2;Team 1;Минск
+99;C1;M;J;Test T3;Team 1;Могилев
+33;C2;M;C;Test T4;Team 1;Минск
+76;C3;M;C;Test T5;Team 2;Могилев
+98;D1;F;C;Test T6;Team 3;Минск
+17;D2;F;;Test T7;Team 1;Могилев
+87;D3;F;;Test T8;Team 2;Минск
+65;D4;F;;Test T9;Team 3;Могилев
+78;N;F;J;Test T10;Team 1;Минск
+96;N;F;J;Test T11;Team 2;Могилев
+43;N;F;J;Test T12;Team 3;Минск
